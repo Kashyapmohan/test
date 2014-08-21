@@ -5,6 +5,8 @@ Admin Content Language
 ******************************************/
 
 $lang['content_collections']					= 'Content Collections';
+
+$lang['content_collections']					= 'Content Collections';
 $lang['content_collection']					= 'Content Collection';
 $lang['contents']							= 'Contents';
 $lang['name']								= 'Name';
